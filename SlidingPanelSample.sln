@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingPanelSample", "SlidingPanelSample\SlidingPanelSample.csproj", "{EA63B541-860F-4884-A1BD-4331C6BA99FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Release|iPhone.Build.0 = Release|iPhone
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EA63B541-860F-4884-A1BD-4331C6BA99FB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SlidingPanelSample\SlidingPanelSample.csproj
+	EndGlobalSection
+EndGlobal
